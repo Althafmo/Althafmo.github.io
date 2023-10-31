@@ -4,11 +4,11 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color:wheat;
 }
 
 .calculator {
-    background-color: #333;
+    background-color:rgb(71, 69, 69);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -29,8 +29,8 @@ body {
 button {
     padding: 10px;
     font-size: 20px;
-    background-color: #666;
-    color: #fff;
+    background-color: gray;
+    color: white;
     border: none;
     cursor: pointer;
 }
